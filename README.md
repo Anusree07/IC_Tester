@@ -1,0 +1,1 @@
+This project tests any logic gate IC with 14 pins. It uses the ATmega328p microcontroller as the controlling and processing unit. The input is given to the corresponding pins of the IC to be tested using a program stored in the microcontroller acting as a slave. 
